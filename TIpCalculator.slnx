@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TIpCalculator.Maui/TipCalculator.Maui.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
