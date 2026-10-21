@@ -27,7 +27,8 @@
                     Grid.Row="0"
                     Grid.Column="1"
                     Grid.ColumnSpan="2"
-                    BackgroundColor="WhiteSmoke"/>
+                    BackgroundColor="WhiteSmoke"
+                    TextColor="Black"/>
                 <Label
                     Grid.Row="1"
                     Grid.Column="0"
@@ -37,7 +38,8 @@
                 <Entry
                     Grid.Row="1"
                     Grid.Column="1"
-                    BackgroundColor="WhiteSmoke"/>
+                    BackgroundColor="WhiteSmoke"
+                    TextColor="Black"/>
                 <Stepper
                     Grid.Row="1"
                     Grid.Column="2"/>
@@ -69,7 +71,8 @@
                 <Entry
                     Grid.Row="3"
                     Grid.Column="1"
-                    BackgroundColor="WhiteSmoke"/>
+                    BackgroundColor="WhiteSmoke"
+                    TextColor="Black"   />
                 <Stepper
                     Grid.Row="3"
                     Grid.Column="2"/>
